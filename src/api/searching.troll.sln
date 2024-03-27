@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searching.troll.Api", "searching.troll.Api\searching.troll.Api.csproj", "{99B29EDC-E8D2-4059-AEF6-4EAC6C058B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searching.troll.Domain", "searching.troll.Domain\searching.troll.Domain.csproj", "{74725734-68EA-4DD5-A2CA-F93E8594E37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B29EDC-E8D2-4059-AEF6-4EAC6C058B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B29EDC-E8D2-4059-AEF6-4EAC6C058B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B29EDC-E8D2-4059-AEF6-4EAC6C058B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B29EDC-E8D2-4059-AEF6-4EAC6C058B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74725734-68EA-4DD5-A2CA-F93E8594E37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74725734-68EA-4DD5-A2CA-F93E8594E37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74725734-68EA-4DD5-A2CA-F93E8594E37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74725734-68EA-4DD5-A2CA-F93E8594E37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
